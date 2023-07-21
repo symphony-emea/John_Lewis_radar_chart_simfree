@@ -39,7 +39,7 @@ const data = {
     // ],
     datasets: [
         {
-            label: 'DCD %',
+            label: 'DCD%',
             data: [100, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
             // fill: true,
             backgroundColor: 'rgba(255, 99, 132, 0.2)',
